@@ -14,3 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+x = 1
+x = x + 1     # --> x is now 2
+print(x)
